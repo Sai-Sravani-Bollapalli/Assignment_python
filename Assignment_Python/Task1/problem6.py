@@ -1,0 +1,6 @@
+a = int(input("Enter a value: "))
+print("The data type of the input value is :", type(a))
+b = float(input("Enter a value: "))
+print("The data type of the input value is :", type(b))
+c = input("Enter a anything: ")
+print("The data type of the input value is :", type(c))
